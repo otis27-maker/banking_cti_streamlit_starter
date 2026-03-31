@@ -1,0 +1,241 @@
+id,date,category,actor_type,technique,asset,region,severity,status,loss_usd_thousands,description
+T0001,2026-02-15,Malware,Cybercrime,Ransomware,Payment Processing Infrastructure,North America,Medium,Detected,339.97,Synthetic banking-sector CTI event
+T0002,2025-12-29,Malware,Hacktivist,Credential Stuffing,Core Banking System,Global,Medium,Contained,255.15,Synthetic banking-sector CTI event
+T0003,2025-04-07,Nation-State,Hacktivist,Malware Dropper,Digital Channels (Mobile/Web),Latin America,High,Detected,380.61,Synthetic banking-sector CTI event
+T0004,2025-06-14,DDoS,Insider,Ransomware,Payment Processing Infrastructure,North America,High,Detected,50.91,Synthetic banking-sector CTI event
+T0005,2025-05-13,Phishing,Insider,Ransomware,Tokenized Asset Platform,Global,Critical,Detected,486.69,Synthetic banking-sector CTI event
+T0006,2025-10-04,Malware,Insider,ATM Jackpotting,Data Platform & Analytics,North America,Low,Detected,332.33,Synthetic banking-sector CTI event
+T0007,2025-08-20,Malware,Nation-State,Phishing Email,Digital Channels (Mobile/Web),Europe,Critical,Impacted,85.51,Synthetic banking-sector CTI event
+T0008,2025-09-22,Nation-State,Insider,Phishing Email,Data Platform & Analytics,Middle East & Africa,Medium,Contained,85.88,Synthetic banking-sector CTI event
+T0009,2025-10-05,Ransomware,Nation-State,ATM Jackpotting,Tokenized Asset Platform,Global,Medium,Detected,403.5,Synthetic banking-sector CTI event
+T0010,2025-10-16,Ransomware,Cybercrime,Malware Dropper,Data Platform & Analytics,Middle East & Africa,High,Contained,329.44,Synthetic banking-sector CTI event
+T0011,2025-10-13,API Abuse,Nation-State,Ransomware,Payment Processing Infrastructure,North America,High,Recovered,449.42,Synthetic banking-sector CTI event
+T0012,2025-10-15,Phishing,Nation-State,Deepfake Voice,Data Platform & Analytics,Asia-Pacific,Low,Detected,431.25,Synthetic banking-sector CTI event
+T0013,2025-06-11,Insider,Hacktivist,Phishing Email,Digital Channels (Mobile/Web),Asia-Pacific,Critical,Impacted,485.68,Synthetic banking-sector CTI event
+T0014,2025-03-30,Malware,Insider,ATM Jackpotting,Core Banking System,Europe,Critical,Contained,229.59,Synthetic banking-sector CTI event
+T0015,2025-08-06,Insider,Cybercrime,Ransomware,Tokenized Asset Platform,Middle East & Africa,Medium,Contained,190.09,Synthetic banking-sector CTI event
+T0016,2025-06-15,Fraud,Insider,API Token Theft,Core Banking System,Global,High,Impacted,123.53,Synthetic banking-sector CTI event
+T0017,2025-07-26,Malware,Cybercrime,API Token Theft,Tokenized Asset Platform,Global,Medium,Contained,331.58,Synthetic banking-sector CTI event
+T0018,2025-12-31,Insider,Insider,SIM Swap,Payment Processing Infrastructure,Latin America,Medium,Impacted,202.5,Synthetic banking-sector CTI event
+T0019,2026-03-03,Phishing,Hacktivist,API Token Theft,Core Banking System,North America,Medium,Detected,172.35,Synthetic banking-sector CTI event
+T0020,2026-01-20,Nation-State,Nation-State,Credential Stuffing,Core Banking System,Middle East & Africa,Low,Contained,38.36,Synthetic banking-sector CTI event
+T0021,2025-04-10,Phishing,Cybercrime,Malware Dropper,Customer Identity & Authentication,Middle East & Africa,Critical,Contained,271.92,Synthetic banking-sector CTI event
+T0022,2026-01-11,API Abuse,Nation-State,API Token Theft,Tokenized Asset Platform,Asia-Pacific,Medium,Detected,52.98,Synthetic banking-sector CTI event
+T0023,2025-10-31,Phishing,Hacktivist,SIM Swap,Digital Channels (Mobile/Web),Middle East & Africa,Low,Detected,35.0,Synthetic banking-sector CTI event
+T0024,2025-09-14,Malware,Nation-State,Malware Dropper,Payment Processing Infrastructure,Latin America,Critical,Contained,213.83,Synthetic banking-sector CTI event
+T0025,2025-08-14,API Abuse,Nation-State,Phishing Email,Digital Channels (Mobile/Web),Latin America,Low,Detected,327.81,Synthetic banking-sector CTI event
+T0026,2025-12-26,Fraud,Cybercrime,Malware Dropper,Payment Processing Infrastructure,Asia-Pacific,Critical,Recovered,110.8,Synthetic banking-sector CTI event
+T0027,2025-10-16,Fraud,Nation-State,SIM Swap,Core Banking System,Asia-Pacific,High,Recovered,146.2,Synthetic banking-sector CTI event
+T0028,2026-03-16,API Abuse,Nation-State,Malware Dropper,Customer Identity & Authentication,North America,Low,Detected,375.25,Synthetic banking-sector CTI event
+T0029,2025-04-23,Fraud,Hacktivist,Deepfake Voice,Core Banking System,Latin America,Low,Contained,38.92,Synthetic banking-sector CTI event
+T0030,2025-04-28,Nation-State,Hacktivist,Phishing Email,Data Platform & Analytics,North America,Low,Detected,212.52,Synthetic banking-sector CTI event
+T0031,2026-01-17,Phishing,Insider,Malware Dropper,SWIFT/RTGS Gateway,Middle East & Africa,High,Contained,136.48,Synthetic banking-sector CTI event
+T0032,2025-05-31,Ransomware,Hacktivist,ATM Jackpotting,Tokenized Asset Platform,Global,Low,Recovered,312.47,Synthetic banking-sector CTI event
+T0033,2026-01-07,Malware,Cybercrime,Malware Dropper,Data Platform & Analytics,Europe,Medium,Impacted,441.03,Synthetic banking-sector CTI event
+T0034,2025-07-28,Phishing,Insider,Deepfake Voice,Digital Channels (Mobile/Web),Latin America,High,Detected,335.59,Synthetic banking-sector CTI event
+T0035,2026-01-02,Ransomware,Cybercrime,Deepfake Voice,Customer Identity & Authentication,Global,Low,Contained,139.81,Synthetic banking-sector CTI event
+T0036,2026-01-28,Nation-State,Insider,Malware Dropper,SWIFT/RTGS Gateway,Middle East & Africa,High,Recovered,129.31,Synthetic banking-sector CTI event
+T0037,2025-04-20,Malware,Hacktivist,Ransomware,Core Banking System,Global,High,Contained,320.37,Synthetic banking-sector CTI event
+T0038,2025-08-06,Insider,Hacktivist,SIM Swap,Data Platform & Analytics,Global,Low,Detected,472.8,Synthetic banking-sector CTI event
+T0039,2026-03-13,Insider,Cybercrime,ATM Jackpotting,Data Platform & Analytics,Latin America,Medium,Recovered,68.09,Synthetic banking-sector CTI event
+T0040,2025-08-29,Phishing,Cybercrime,ATM Jackpotting,Payment Processing Infrastructure,Middle East & Africa,Medium,Detected,180.07,Synthetic banking-sector CTI event
+T0041,2026-01-05,DDoS,Nation-State,Malware Dropper,Tokenized Asset Platform,North America,Medium,Recovered,17.27,Synthetic banking-sector CTI event
+T0042,2025-09-11,DDoS,Nation-State,Ransomware,Payment Processing Infrastructure,Middle East & Africa,Low,Recovered,436.72,Synthetic banking-sector CTI event
+T0043,2025-11-20,Nation-State,Nation-State,API Token Theft,Customer Identity & Authentication,Europe,Medium,Contained,16.71,Synthetic banking-sector CTI event
+T0044,2025-07-01,DDoS,Insider,Ransomware,Tokenized Asset Platform,Global,High,Impacted,322.53,Synthetic banking-sector CTI event
+T0045,2025-10-15,Phishing,Cybercrime,Phishing Email,Customer Identity & Authentication,North America,High,Detected,58.66,Synthetic banking-sector CTI event
+T0046,2025-11-02,Phishing,Insider,SIM Swap,Data Platform & Analytics,Latin America,Low,Recovered,450.25,Synthetic banking-sector CTI event
+T0047,2025-06-30,Ransomware,Cybercrime,SIM Swap,Core Banking System,Latin America,Medium,Impacted,218.49,Synthetic banking-sector CTI event
+T0048,2026-02-28,Phishing,Insider,Phishing Email,SWIFT/RTGS Gateway,Europe,High,Recovered,166.46,Synthetic banking-sector CTI event
+T0049,2026-03-16,Ransomware,Nation-State,Malware Dropper,Digital Channels (Mobile/Web),Middle East & Africa,Critical,Contained,309.68,Synthetic banking-sector CTI event
+T0050,2025-08-26,DDoS,Cybercrime,Ransomware,Customer Identity & Authentication,North America,Critical,Impacted,235.17,Synthetic banking-sector CTI event
+T0051,2025-11-06,Nation-State,Hacktivist,Deepfake Voice,SWIFT/RTGS Gateway,Global,High,Impacted,51.23,Synthetic banking-sector CTI event
+T0052,2025-07-23,Ransomware,Nation-State,Malware Dropper,Payment Processing Infrastructure,Global,Low,Contained,492.05,Synthetic banking-sector CTI event
+T0053,2026-01-31,Malware,Hacktivist,SIM Swap,SWIFT/RTGS Gateway,Latin America,Medium,Recovered,249.72,Synthetic banking-sector CTI event
+T0054,2025-07-27,Insider,Cybercrime,Phishing Email,Tokenized Asset Platform,Asia-Pacific,Medium,Contained,403.03,Synthetic banking-sector CTI event
+T0055,2026-03-16,API Abuse,Cybercrime,Malware Dropper,Tokenized Asset Platform,Global,Critical,Contained,401.7,Synthetic banking-sector CTI event
+T0056,2026-03-01,Phishing,Hacktivist,SIM Swap,Tokenized Asset Platform,Latin America,Critical,Contained,373.11,Synthetic banking-sector CTI event
+T0057,2025-11-23,API Abuse,Insider,Malware Dropper,Tokenized Asset Platform,Middle East & Africa,High,Recovered,315.24,Synthetic banking-sector CTI event
+T0058,2025-08-12,API Abuse,Cybercrime,Ransomware,Payment Processing Infrastructure,Europe,High,Impacted,447.05,Synthetic banking-sector CTI event
+T0059,2025-05-05,Insider,Nation-State,Malware Dropper,Digital Channels (Mobile/Web),Middle East & Africa,Medium,Contained,36.79,Synthetic banking-sector CTI event
+T0060,2025-10-19,Phishing,Hacktivist,SIM Swap,Core Banking System,North America,Critical,Recovered,452.9,Synthetic banking-sector CTI event
+T0061,2026-01-18,Fraud,Hacktivist,API Token Theft,Core Banking System,Europe,High,Recovered,427.46,Synthetic banking-sector CTI event
+T0062,2025-10-25,Nation-State,Hacktivist,Malware Dropper,Customer Identity & Authentication,Asia-Pacific,Critical,Detected,197.48,Synthetic banking-sector CTI event
+T0063,2026-03-02,DDoS,Nation-State,API Token Theft,Payment Processing Infrastructure,Latin America,Low,Recovered,297.99,Synthetic banking-sector CTI event
+T0064,2026-02-27,Fraud,Cybercrime,SIM Swap,Payment Processing Infrastructure,Asia-Pacific,Medium,Detected,133.78,Synthetic banking-sector CTI event
+T0065,2025-09-08,Nation-State,Hacktivist,ATM Jackpotting,Customer Identity & Authentication,Asia-Pacific,High,Recovered,129.87,Synthetic banking-sector CTI event
+T0066,2025-05-05,API Abuse,Cybercrime,Credential Stuffing,Customer Identity & Authentication,North America,Low,Detected,378.35,Synthetic banking-sector CTI event
+T0067,2025-07-29,Nation-State,Cybercrime,Deepfake Voice,Payment Processing Infrastructure,North America,Critical,Detected,284.16,Synthetic banking-sector CTI event
+T0068,2025-07-14,API Abuse,Insider,ATM Jackpotting,Payment Processing Infrastructure,Latin America,Low,Contained,482.54,Synthetic banking-sector CTI event
+T0069,2025-05-19,Fraud,Insider,SIM Swap,Digital Channels (Mobile/Web),Middle East & Africa,Medium,Detected,298.09,Synthetic banking-sector CTI event
+T0070,2026-02-09,Nation-State,Cybercrime,Ransomware,Tokenized Asset Platform,Middle East & Africa,Low,Detected,176.87,Synthetic banking-sector CTI event
+T0071,2025-10-30,Phishing,Cybercrime,ATM Jackpotting,Core Banking System,Asia-Pacific,Critical,Detected,219.59,Synthetic banking-sector CTI event
+T0072,2025-09-26,API Abuse,Nation-State,SIM Swap,Payment Processing Infrastructure,Middle East & Africa,High,Recovered,235.11,Synthetic banking-sector CTI event
+T0073,2026-01-22,Ransomware,Insider,Malware Dropper,Tokenized Asset Platform,Global,High,Recovered,125.71,Synthetic banking-sector CTI event
+T0074,2025-11-17,DDoS,Insider,Credential Stuffing,Digital Channels (Mobile/Web),Europe,Medium,Recovered,110.0,Synthetic banking-sector CTI event
+T0075,2025-08-04,Phishing,Insider,Ransomware,Data Platform & Analytics,Global,Medium,Detected,124.47,Synthetic banking-sector CTI event
+T0076,2025-10-19,API Abuse,Nation-State,API Token Theft,SWIFT/RTGS Gateway,Middle East & Africa,Critical,Recovered,397.5,Synthetic banking-sector CTI event
+T0077,2025-05-11,Ransomware,Nation-State,SIM Swap,SWIFT/RTGS Gateway,North America,High,Impacted,239.26,Synthetic banking-sector CTI event
+T0078,2025-12-21,Phishing,Hacktivist,ATM Jackpotting,Customer Identity & Authentication,Middle East & Africa,Critical,Impacted,156.78,Synthetic banking-sector CTI event
+T0079,2025-07-21,Malware,Nation-State,ATM Jackpotting,Core Banking System,Middle East & Africa,Medium,Contained,112.11,Synthetic banking-sector CTI event
+T0080,2025-11-27,Ransomware,Insider,Phishing Email,Tokenized Asset Platform,North America,High,Contained,183.64,Synthetic banking-sector CTI event
+T0081,2025-08-26,Fraud,Nation-State,Ransomware,Core Banking System,Global,High,Contained,320.75,Synthetic banking-sector CTI event
+T0082,2025-12-01,Malware,Cybercrime,Ransomware,Digital Channels (Mobile/Web),Asia-Pacific,Critical,Impacted,96.26,Synthetic banking-sector CTI event
+T0083,2025-04-20,Ransomware,Hacktivist,Phishing Email,Tokenized Asset Platform,Global,Critical,Recovered,41.67,Synthetic banking-sector CTI event
+T0084,2026-02-10,Fraud,Nation-State,Deepfake Voice,Tokenized Asset Platform,Latin America,High,Detected,496.99,Synthetic banking-sector CTI event
+T0085,2025-05-24,DDoS,Nation-State,SIM Swap,Digital Channels (Mobile/Web),Asia-Pacific,High,Recovered,156.16,Synthetic banking-sector CTI event
+T0086,2026-02-05,Fraud,Cybercrime,Malware Dropper,SWIFT/RTGS Gateway,North America,High,Detected,82.74,Synthetic banking-sector CTI event
+T0087,2025-06-21,Malware,Nation-State,Credential Stuffing,Digital Channels (Mobile/Web),Asia-Pacific,Critical,Impacted,21.16,Synthetic banking-sector CTI event
+T0088,2025-08-19,Ransomware,Hacktivist,Phishing Email,SWIFT/RTGS Gateway,North America,High,Contained,215.44,Synthetic banking-sector CTI event
+T0089,2025-12-28,Nation-State,Nation-State,Ransomware,Tokenized Asset Platform,North America,Low,Detected,87.13,Synthetic banking-sector CTI event
+T0090,2025-08-29,Ransomware,Hacktivist,Phishing Email,Digital Channels (Mobile/Web),Middle East & Africa,High,Recovered,471.62,Synthetic banking-sector CTI event
+T0091,2025-12-06,API Abuse,Hacktivist,Phishing Email,Data Platform & Analytics,Global,Critical,Impacted,303.84,Synthetic banking-sector CTI event
+T0092,2025-04-07,Malware,Nation-State,Credential Stuffing,Tokenized Asset Platform,Middle East & Africa,High,Detected,382.74,Synthetic banking-sector CTI event
+T0093,2025-06-22,API Abuse,Hacktivist,Ransomware,Payment Processing Infrastructure,Latin America,Critical,Recovered,484.68,Synthetic banking-sector CTI event
+T0094,2025-11-20,Phishing,Hacktivist,ATM Jackpotting,Customer Identity & Authentication,Middle East & Africa,Low,Contained,168.25,Synthetic banking-sector CTI event
+T0095,2026-03-15,API Abuse,Insider,SIM Swap,Tokenized Asset Platform,Latin America,Low,Recovered,48.59,Synthetic banking-sector CTI event
+T0096,2025-08-01,Phishing,Cybercrime,SIM Swap,Tokenized Asset Platform,Latin America,Low,Recovered,209.56,Synthetic banking-sector CTI event
+T0097,2025-06-29,Phishing,Hacktivist,API Token Theft,Tokenized Asset Platform,Global,Medium,Impacted,276.86,Synthetic banking-sector CTI event
+T0098,2025-08-19,API Abuse,Hacktivist,Phishing Email,Core Banking System,Middle East & Africa,Medium,Contained,158.82,Synthetic banking-sector CTI event
+T0099,2025-04-01,DDoS,Cybercrime,Malware Dropper,Tokenized Asset Platform,Global,Critical,Detected,325.62,Synthetic banking-sector CTI event
+T0100,2025-06-11,API Abuse,Insider,Ransomware,Digital Channels (Mobile/Web),Asia-Pacific,Critical,Contained,231.11,Synthetic banking-sector CTI event
+T0101,2025-06-07,DDoS,Nation-State,Deepfake Voice,Tokenized Asset Platform,Global,High,Recovered,173.24,Synthetic banking-sector CTI event
+T0102,2025-12-09,Ransomware,Cybercrime,Ransomware,SWIFT/RTGS Gateway,Europe,Critical,Contained,226.04,Synthetic banking-sector CTI event
+T0103,2025-11-27,Phishing,Insider,SIM Swap,Digital Channels (Mobile/Web),Europe,Medium,Contained,288.04,Synthetic banking-sector CTI event
+T0104,2025-07-22,DDoS,Cybercrime,ATM Jackpotting,SWIFT/RTGS Gateway,Asia-Pacific,Critical,Recovered,494.26,Synthetic banking-sector CTI event
+T0105,2026-02-21,Insider,Hacktivist,Credential Stuffing,Payment Processing Infrastructure,Latin America,High,Detected,437.72,Synthetic banking-sector CTI event
+T0106,2025-11-05,Malware,Hacktivist,Credential Stuffing,SWIFT/RTGS Gateway,North America,Critical,Contained,42.04,Synthetic banking-sector CTI event
+T0107,2025-08-07,Phishing,Hacktivist,Phishing Email,Tokenized Asset Platform,Europe,Critical,Impacted,315.27,Synthetic banking-sector CTI event
+T0108,2025-11-29,Fraud,Cybercrime,Malware Dropper,SWIFT/RTGS Gateway,Middle East & Africa,High,Contained,374.65,Synthetic banking-sector CTI event
+T0109,2025-11-02,Malware,Cybercrime,API Token Theft,Payment Processing Infrastructure,Middle East & Africa,High,Detected,27.77,Synthetic banking-sector CTI event
+T0110,2025-04-22,Ransomware,Insider,ATM Jackpotting,Digital Channels (Mobile/Web),North America,Medium,Recovered,285.13,Synthetic banking-sector CTI event
+T0111,2025-06-25,Insider,Nation-State,Phishing Email,Data Platform & Analytics,Asia-Pacific,Medium,Recovered,456.85,Synthetic banking-sector CTI event
+T0112,2025-06-06,Nation-State,Hacktivist,Ransomware,Digital Channels (Mobile/Web),Europe,Low,Recovered,451.1,Synthetic banking-sector CTI event
+T0113,2026-03-06,Insider,Cybercrime,API Token Theft,Customer Identity & Authentication,Latin America,High,Recovered,346.71,Synthetic banking-sector CTI event
+T0114,2025-11-13,Ransomware,Nation-State,SIM Swap,Tokenized Asset Platform,Asia-Pacific,Low,Contained,193.78,Synthetic banking-sector CTI event
+T0115,2025-09-24,Ransomware,Insider,Credential Stuffing,Tokenized Asset Platform,Middle East & Africa,Critical,Impacted,9.01,Synthetic banking-sector CTI event
+T0116,2026-03-11,Fraud,Hacktivist,Ransomware,Tokenized Asset Platform,North America,High,Contained,320.13,Synthetic banking-sector CTI event
+T0117,2026-02-05,Ransomware,Nation-State,Phishing Email,SWIFT/RTGS Gateway,Middle East & Africa,Low,Impacted,395.36,Synthetic banking-sector CTI event
+T0118,2025-04-11,Phishing,Nation-State,Phishing Email,Customer Identity & Authentication,Europe,Critical,Contained,104.39,Synthetic banking-sector CTI event
+T0119,2025-12-26,Phishing,Insider,Deepfake Voice,Customer Identity & Authentication,Asia-Pacific,High,Impacted,403.1,Synthetic banking-sector CTI event
+T0120,2025-11-19,Malware,Nation-State,Malware Dropper,Tokenized Asset Platform,Middle East & Africa,Critical,Impacted,49.7,Synthetic banking-sector CTI event
+T0121,2025-10-13,Fraud,Insider,Phishing Email,Digital Channels (Mobile/Web),Europe,High,Recovered,412.1,Synthetic banking-sector CTI event
+T0122,2025-10-01,Malware,Nation-State,API Token Theft,Core Banking System,Latin America,High,Contained,325.59,Synthetic banking-sector CTI event
+T0123,2026-02-13,API Abuse,Insider,SIM Swap,Core Banking System,North America,Low,Detected,155.66,Synthetic banking-sector CTI event
+T0124,2025-12-02,Malware,Cybercrime,Malware Dropper,Data Platform & Analytics,North America,Critical,Recovered,188.65,Synthetic banking-sector CTI event
+T0125,2026-03-16,DDoS,Nation-State,SIM Swap,SWIFT/RTGS Gateway,Global,Critical,Recovered,469.83,Synthetic banking-sector CTI event
+T0126,2025-08-15,Fraud,Insider,Malware Dropper,Digital Channels (Mobile/Web),Asia-Pacific,Medium,Impacted,54.18,Synthetic banking-sector CTI event
+T0127,2026-03-11,Phishing,Insider,Credential Stuffing,Digital Channels (Mobile/Web),Europe,Medium,Detected,474.76,Synthetic banking-sector CTI event
+T0128,2025-11-12,Malware,Nation-State,Credential Stuffing,Core Banking System,Europe,Medium,Contained,394.55,Synthetic banking-sector CTI event
+T0129,2025-07-08,Malware,Nation-State,Malware Dropper,Tokenized Asset Platform,North America,High,Contained,395.38,Synthetic banking-sector CTI event
+T0130,2026-01-24,Fraud,Insider,Deepfake Voice,Payment Processing Infrastructure,Latin America,High,Contained,59.41,Synthetic banking-sector CTI event
+T0131,2025-04-07,Insider,Cybercrime,ATM Jackpotting,Tokenized Asset Platform,North America,High,Detected,91.25,Synthetic banking-sector CTI event
+T0132,2025-04-20,Insider,Hacktivist,Phishing Email,SWIFT/RTGS Gateway,Global,Critical,Recovered,390.12,Synthetic banking-sector CTI event
+T0133,2025-12-12,Malware,Hacktivist,Malware Dropper,Data Platform & Analytics,Global,High,Recovered,323.45,Synthetic banking-sector CTI event
+T0134,2025-04-09,Fraud,Hacktivist,SIM Swap,Digital Channels (Mobile/Web),Middle East & Africa,Low,Recovered,357.64,Synthetic banking-sector CTI event
+T0135,2025-11-07,Malware,Cybercrime,ATM Jackpotting,Data Platform & Analytics,North America,Low,Contained,141.13,Synthetic banking-sector CTI event
+T0136,2026-02-12,Phishing,Hacktivist,Ransomware,Digital Channels (Mobile/Web),Latin America,Critical,Detected,397.58,Synthetic banking-sector CTI event
+T0137,2025-05-22,Nation-State,Hacktivist,API Token Theft,Payment Processing Infrastructure,Asia-Pacific,High,Recovered,202.37,Synthetic banking-sector CTI event
+T0138,2025-05-12,Phishing,Hacktivist,ATM Jackpotting,SWIFT/RTGS Gateway,Europe,High,Contained,344.98,Synthetic banking-sector CTI event
+T0139,2025-11-22,Malware,Cybercrime,Phishing Email,Core Banking System,Asia-Pacific,Low,Impacted,406.83,Synthetic banking-sector CTI event
+T0140,2026-01-03,Fraud,Insider,Phishing Email,Digital Channels (Mobile/Web),Europe,Critical,Detected,484.36,Synthetic banking-sector CTI event
+T0141,2026-01-26,Ransomware,Insider,Phishing Email,Data Platform & Analytics,Latin America,Medium,Contained,330.08,Synthetic banking-sector CTI event
+T0142,2025-07-17,Malware,Insider,ATM Jackpotting,Core Banking System,Europe,Medium,Recovered,423.35,Synthetic banking-sector CTI event
+T0143,2026-02-06,Fraud,Insider,Credential Stuffing,Payment Processing Infrastructure,Europe,High,Impacted,178.76,Synthetic banking-sector CTI event
+T0144,2025-06-25,Insider,Hacktivist,Phishing Email,Payment Processing Infrastructure,Middle East & Africa,Low,Detected,374.33,Synthetic banking-sector CTI event
+T0145,2025-07-13,DDoS,Hacktivist,API Token Theft,Customer Identity & Authentication,North America,High,Impacted,362.19,Synthetic banking-sector CTI event
+T0146,2026-01-09,Malware,Cybercrime,Deepfake Voice,Payment Processing Infrastructure,Latin America,Low,Detected,139.69,Synthetic banking-sector CTI event
+T0147,2026-02-26,DDoS,Hacktivist,API Token Theft,Digital Channels (Mobile/Web),Europe,Medium,Detected,175.86,Synthetic banking-sector CTI event
+T0148,2025-05-20,Ransomware,Hacktivist,Ransomware,Core Banking System,North America,Critical,Detected,8.81,Synthetic banking-sector CTI event
+T0149,2025-08-26,Nation-State,Nation-State,Ransomware,Customer Identity & Authentication,Europe,Low,Detected,251.21,Synthetic banking-sector CTI event
+T0150,2025-10-31,Insider,Nation-State,SIM Swap,Data Platform & Analytics,Middle East & Africa,Medium,Impacted,40.68,Synthetic banking-sector CTI event
+T0151,2025-04-15,DDoS,Cybercrime,API Token Theft,Core Banking System,Europe,Critical,Recovered,356.2,Synthetic banking-sector CTI event
+T0152,2025-10-24,Ransomware,Cybercrime,SIM Swap,Core Banking System,Europe,Medium,Recovered,416.85,Synthetic banking-sector CTI event
+T0153,2025-09-26,Malware,Hacktivist,Phishing Email,Payment Processing Infrastructure,Asia-Pacific,Critical,Detected,200.9,Synthetic banking-sector CTI event
+T0154,2025-08-30,Phishing,Nation-State,ATM Jackpotting,Tokenized Asset Platform,North America,Low,Detected,267.65,Synthetic banking-sector CTI event
+T0155,2025-07-02,Phishing,Insider,Deepfake Voice,Payment Processing Infrastructure,Global,Medium,Impacted,102.65,Synthetic banking-sector CTI event
+T0156,2026-01-27,Insider,Cybercrime,Deepfake Voice,Tokenized Asset Platform,Middle East & Africa,Critical,Recovered,378.45,Synthetic banking-sector CTI event
+T0157,2026-01-15,API Abuse,Insider,ATM Jackpotting,Payment Processing Infrastructure,Asia-Pacific,Low,Recovered,223.89,Synthetic banking-sector CTI event
+T0158,2025-08-27,Ransomware,Cybercrime,ATM Jackpotting,Data Platform & Analytics,Global,High,Recovered,228.7,Synthetic banking-sector CTI event
+T0159,2025-04-23,Phishing,Insider,Phishing Email,SWIFT/RTGS Gateway,Global,Critical,Recovered,292.26,Synthetic banking-sector CTI event
+T0160,2025-04-15,API Abuse,Nation-State,ATM Jackpotting,Data Platform & Analytics,Asia-Pacific,Medium,Detected,228.01,Synthetic banking-sector CTI event
+T0161,2025-09-16,Malware,Nation-State,Credential Stuffing,Payment Processing Infrastructure,Middle East & Africa,Critical,Recovered,264.41,Synthetic banking-sector CTI event
+T0162,2026-01-31,Insider,Insider,ATM Jackpotting,Customer Identity & Authentication,Asia-Pacific,Critical,Impacted,341.05,Synthetic banking-sector CTI event
+T0163,2025-04-20,Phishing,Cybercrime,ATM Jackpotting,Core Banking System,Latin America,Critical,Impacted,129.74,Synthetic banking-sector CTI event
+T0164,2026-02-24,Insider,Insider,Phishing Email,Data Platform & Analytics,Middle East & Africa,Medium,Impacted,158.56,Synthetic banking-sector CTI event
+T0165,2026-02-23,DDoS,Nation-State,Phishing Email,Customer Identity & Authentication,Latin America,Critical,Impacted,407.53,Synthetic banking-sector CTI event
+T0166,2026-03-03,Malware,Hacktivist,ATM Jackpotting,Core Banking System,Europe,High,Contained,475.83,Synthetic banking-sector CTI event
+T0167,2025-09-15,API Abuse,Nation-State,Malware Dropper,Payment Processing Infrastructure,North America,Low,Impacted,422.99,Synthetic banking-sector CTI event
+T0168,2025-05-15,Fraud,Insider,Deepfake Voice,Data Platform & Analytics,Asia-Pacific,Medium,Contained,94.52,Synthetic banking-sector CTI event
+T0169,2026-03-14,Insider,Hacktivist,Credential Stuffing,Digital Channels (Mobile/Web),Europe,Medium,Recovered,307.24,Synthetic banking-sector CTI event
+T0170,2025-11-09,Nation-State,Nation-State,Ransomware,Tokenized Asset Platform,Asia-Pacific,Medium,Impacted,340.76,Synthetic banking-sector CTI event
+T0171,2026-01-11,API Abuse,Hacktivist,Ransomware,Tokenized Asset Platform,Asia-Pacific,Critical,Contained,409.36,Synthetic banking-sector CTI event
+T0172,2026-01-28,Insider,Insider,Credential Stuffing,SWIFT/RTGS Gateway,Asia-Pacific,High,Detected,357.14,Synthetic banking-sector CTI event
+T0173,2025-12-14,Malware,Insider,Phishing Email,Tokenized Asset Platform,North America,High,Recovered,453.13,Synthetic banking-sector CTI event
+T0174,2025-06-08,DDoS,Cybercrime,Malware Dropper,Tokenized Asset Platform,Asia-Pacific,High,Detected,210.37,Synthetic banking-sector CTI event
+T0175,2025-10-13,Phishing,Nation-State,SIM Swap,Core Banking System,Europe,Medium,Detected,162.75,Synthetic banking-sector CTI event
+T0176,2025-05-14,Phishing,Nation-State,Deepfake Voice,Core Banking System,Europe,Critical,Contained,380.63,Synthetic banking-sector CTI event
+T0177,2025-11-20,API Abuse,Cybercrime,Phishing Email,Core Banking System,Europe,Medium,Contained,276.66,Synthetic banking-sector CTI event
+T0178,2026-01-30,DDoS,Cybercrime,Ransomware,Payment Processing Infrastructure,Europe,Low,Detected,123.03,Synthetic banking-sector CTI event
+T0179,2026-02-15,API Abuse,Cybercrime,Phishing Email,Tokenized Asset Platform,Asia-Pacific,Low,Contained,360.68,Synthetic banking-sector CTI event
+T0180,2025-08-21,DDoS,Cybercrime,ATM Jackpotting,Payment Processing Infrastructure,Latin America,Critical,Contained,333.86,Synthetic banking-sector CTI event
+T0181,2025-05-07,Phishing,Cybercrime,Credential Stuffing,Digital Channels (Mobile/Web),Asia-Pacific,Low,Recovered,490.61,Synthetic banking-sector CTI event
+T0182,2025-08-01,Fraud,Insider,Phishing Email,Customer Identity & Authentication,North America,Low,Impacted,71.04,Synthetic banking-sector CTI event
+T0183,2025-09-21,Phishing,Nation-State,API Token Theft,SWIFT/RTGS Gateway,Asia-Pacific,Medium,Contained,36.23,Synthetic banking-sector CTI event
+T0184,2025-11-14,Fraud,Insider,Malware Dropper,Core Banking System,North America,Low,Impacted,467.02,Synthetic banking-sector CTI event
+T0185,2025-12-13,DDoS,Hacktivist,Ransomware,Core Banking System,Middle East & Africa,Medium,Impacted,181.7,Synthetic banking-sector CTI event
+T0186,2025-04-18,Phishing,Insider,Phishing Email,Tokenized Asset Platform,Europe,Critical,Recovered,372.94,Synthetic banking-sector CTI event
+T0187,2025-10-08,Phishing,Nation-State,API Token Theft,SWIFT/RTGS Gateway,Asia-Pacific,High,Impacted,401.57,Synthetic banking-sector CTI event
+T0188,2025-10-28,Malware,Hacktivist,Deepfake Voice,Data Platform & Analytics,Europe,High,Detected,44.63,Synthetic banking-sector CTI event
+T0189,2026-02-26,Ransomware,Insider,API Token Theft,Data Platform & Analytics,Middle East & Africa,Critical,Contained,346.43,Synthetic banking-sector CTI event
+T0190,2025-09-20,API Abuse,Cybercrime,ATM Jackpotting,Data Platform & Analytics,Asia-Pacific,High,Detected,42.15,Synthetic banking-sector CTI event
+T0191,2026-02-14,DDoS,Insider,Deepfake Voice,Core Banking System,North America,Critical,Detected,67.48,Synthetic banking-sector CTI event
+T0192,2025-07-23,Phishing,Insider,SIM Swap,Data Platform & Analytics,Global,Medium,Recovered,474.67,Synthetic banking-sector CTI event
+T0193,2025-10-01,API Abuse,Cybercrime,Deepfake Voice,Data Platform & Analytics,Europe,Critical,Impacted,326.53,Synthetic banking-sector CTI event
+T0194,2025-07-30,Malware,Cybercrime,Deepfake Voice,Digital Channels (Mobile/Web),Latin America,Critical,Detected,134.58,Synthetic banking-sector CTI event
+T0195,2025-08-05,API Abuse,Nation-State,Ransomware,SWIFT/RTGS Gateway,Asia-Pacific,Medium,Detected,72.19,Synthetic banking-sector CTI event
+T0196,2025-05-01,API Abuse,Nation-State,API Token Theft,Core Banking System,Middle East & Africa,High,Impacted,356.22,Synthetic banking-sector CTI event
+T0197,2025-12-31,Ransomware,Insider,Deepfake Voice,SWIFT/RTGS Gateway,Middle East & Africa,Medium,Impacted,256.83,Synthetic banking-sector CTI event
+T0198,2025-05-26,Nation-State,Nation-State,Malware Dropper,Tokenized Asset Platform,Asia-Pacific,Low,Impacted,279.24,Synthetic banking-sector CTI event
+T0199,2025-09-29,API Abuse,Nation-State,Phishing Email,Core Banking System,Europe,Critical,Recovered,265.22,Synthetic banking-sector CTI event
+T0200,2025-10-20,Malware,Nation-State,ATM Jackpotting,SWIFT/RTGS Gateway,Global,Critical,Recovered,341.65,Synthetic banking-sector CTI event
+T0201,2025-09-17,Insider,Nation-State,Deepfake Voice,Digital Channels (Mobile/Web),Latin America,Low,Detected,261.46,Synthetic banking-sector CTI event
+T0202,2025-08-27,Insider,Nation-State,ATM Jackpotting,SWIFT/RTGS Gateway,North America,High,Impacted,423.74,Synthetic banking-sector CTI event
+T0203,2025-07-31,Nation-State,Insider,Deepfake Voice,SWIFT/RTGS Gateway,Europe,Low,Contained,297.95,Synthetic banking-sector CTI event
+T0204,2026-01-16,Insider,Nation-State,ATM Jackpotting,Tokenized Asset Platform,Latin America,Low,Detected,45.21,Synthetic banking-sector CTI event
+T0205,2026-02-16,Ransomware,Nation-State,SIM Swap,Data Platform & Analytics,Middle East & Africa,Low,Recovered,445.05,Synthetic banking-sector CTI event
+T0206,2025-12-29,Ransomware,Insider,API Token Theft,Payment Processing Infrastructure,Middle East & Africa,Critical,Impacted,229.5,Synthetic banking-sector CTI event
+T0207,2026-03-12,Fraud,Nation-State,API Token Theft,Digital Channels (Mobile/Web),Asia-Pacific,Critical,Contained,173.4,Synthetic banking-sector CTI event
+T0208,2025-06-06,Phishing,Insider,ATM Jackpotting,Digital Channels (Mobile/Web),North America,High,Detected,162.96,Synthetic banking-sector CTI event
+T0209,2025-11-18,Malware,Insider,API Token Theft,Payment Processing Infrastructure,North America,Low,Detected,148.65,Synthetic banking-sector CTI event
+T0210,2025-10-07,DDoS,Nation-State,Deepfake Voice,Tokenized Asset Platform,Europe,High,Contained,382.75,Synthetic banking-sector CTI event
+T0211,2025-12-05,API Abuse,Hacktivist,Ransomware,Digital Channels (Mobile/Web),Global,Low,Recovered,255.2,Synthetic banking-sector CTI event
+T0212,2025-07-26,Nation-State,Insider,Credential Stuffing,Core Banking System,Europe,Critical,Recovered,146.45,Synthetic banking-sector CTI event
+T0213,2025-03-29,Malware,Hacktivist,Deepfake Voice,Customer Identity & Authentication,Middle East & Africa,High,Recovered,186.14,Synthetic banking-sector CTI event
+T0214,2025-10-16,Fraud,Nation-State,ATM Jackpotting,Data Platform & Analytics,Europe,Low,Recovered,254.61,Synthetic banking-sector CTI event
+T0215,2025-12-31,Ransomware,Cybercrime,Deepfake Voice,Core Banking System,Asia-Pacific,High,Impacted,281.13,Synthetic banking-sector CTI event
+T0216,2025-09-28,Insider,Nation-State,SIM Swap,Data Platform & Analytics,Global,Low,Detected,72.83,Synthetic banking-sector CTI event
+T0217,2025-09-11,API Abuse,Hacktivist,Deepfake Voice,Data Platform & Analytics,Latin America,Medium,Impacted,466.03,Synthetic banking-sector CTI event
+T0218,2025-09-04,Insider,Hacktivist,Ransomware,Data Platform & Analytics,Europe,Critical,Impacted,240.07,Synthetic banking-sector CTI event
+T0219,2025-04-02,Phishing,Insider,Phishing Email,Digital Channels (Mobile/Web),Latin America,High,Detected,300.47,Synthetic banking-sector CTI event
+T0220,2025-08-07,Nation-State,Cybercrime,API Token Theft,Payment Processing Infrastructure,Latin America,Critical,Contained,411.72,Synthetic banking-sector CTI event
+T0221,2025-07-27,Fraud,Cybercrime,Malware Dropper,Core Banking System,Asia-Pacific,High,Recovered,79.96,Synthetic banking-sector CTI event
+T0222,2026-03-13,Nation-State,Hacktivist,API Token Theft,Tokenized Asset Platform,Middle East & Africa,Low,Contained,261.75,Synthetic banking-sector CTI event
+T0223,2026-01-06,Phishing,Hacktivist,SIM Swap,Customer Identity & Authentication,North America,Critical,Impacted,275.41,Synthetic banking-sector CTI event
+T0224,2026-03-06,Ransomware,Hacktivist,Malware Dropper,Payment Processing Infrastructure,Europe,High,Contained,471.04,Synthetic banking-sector CTI event
+T0225,2025-08-24,Ransomware,Nation-State,API Token Theft,Customer Identity & Authentication,Asia-Pacific,High,Impacted,147.46,Synthetic banking-sector CTI event
+T0226,2026-01-12,DDoS,Hacktivist,ATM Jackpotting,Tokenized Asset Platform,North America,High,Detected,147.38,Synthetic banking-sector CTI event
+T0227,2025-05-04,Phishing,Hacktivist,Ransomware,SWIFT/RTGS Gateway,Asia-Pacific,Medium,Contained,414.84,Synthetic banking-sector CTI event
+T0228,2025-08-10,Ransomware,Nation-State,Phishing Email,Data Platform & Analytics,Middle East & Africa,Medium,Contained,30.13,Synthetic banking-sector CTI event
+T0229,2025-12-21,Nation-State,Nation-State,Credential Stuffing,Core Banking System,Asia-Pacific,High,Recovered,54.77,Synthetic banking-sector CTI event
+T0230,2025-06-03,Fraud,Nation-State,SIM Swap,SWIFT/RTGS Gateway,Asia-Pacific,Critical,Contained,379.18,Synthetic banking-sector CTI event
+T0231,2025-08-19,Phishing,Insider,Credential Stuffing,Tokenized Asset Platform,Global,Medium,Detected,457.05,Synthetic banking-sector CTI event
+T0232,2025-06-22,DDoS,Nation-State,Credential Stuffing,Tokenized Asset Platform,Asia-Pacific,Critical,Contained,468.62,Synthetic banking-sector CTI event
+T0233,2025-08-20,Fraud,Cybercrime,Ransomware,Data Platform & Analytics,Latin America,Low,Impacted,145.86,Synthetic banking-sector CTI event
+T0234,2026-02-16,API Abuse,Nation-State,API Token Theft,Customer Identity & Authentication,North America,Low,Impacted,85.43,Synthetic banking-sector CTI event
+T0235,2025-11-14,Ransomware,Nation-State,Credential Stuffing,SWIFT/RTGS Gateway,Europe,High,Contained,91.87,Synthetic banking-sector CTI event
+T0236,2026-02-15,DDoS,Hacktivist,ATM Jackpotting,Core Banking System,Asia-Pacific,Low,Contained,490.93,Synthetic banking-sector CTI event
+T0237,2025-11-24,Phishing,Nation-State,Credential Stuffing,Customer Identity & Authentication,Asia-Pacific,Medium,Recovered,378.11,Synthetic banking-sector CTI event
+T0238,2025-09-09,Ransomware,Cybercrime,Ransomware,SWIFT/RTGS Gateway,Europe,Medium,Detected,335.55,Synthetic banking-sector CTI event
+T0239,2025-11-18,Ransomware,Nation-State,SIM Swap,SWIFT/RTGS Gateway,Latin America,High,Detected,321.16,Synthetic banking-sector CTI event
+T0240,2025-08-23,Phishing,Nation-State,Malware Dropper,Payment Processing Infrastructure,Asia-Pacific,Medium,Recovered,375.13,Synthetic banking-sector CTI event

@@ -1,0 +1,8 @@
+asset_id,asset_name,business_owner,criticality_1_low_5_high,description
+A01,Core Banking System,Head of Payments,5,Critical banking asset
+A02,Payment Processing Infrastructure,Chief Data Officer,4,Critical banking asset
+A03,Customer Identity & Authentication,CTO,4,Critical banking asset
+A04,Digital Channels (Mobile/Web),Chief Data Officer,5,Critical banking asset
+A05,Data Platform & Analytics,CISO,4,Critical banking asset
+A06,SWIFT/RTGS Gateway,CISO,4,Critical banking asset
+A07,Tokenized Asset Platform,CTO,4,Critical banking asset
