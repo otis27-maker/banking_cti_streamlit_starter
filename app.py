@@ -33,6 +33,15 @@ def severity_to_score(s):
     return mapping.get(s, np.nan)
 
 
+CSF_TARGET = {
+    "Govern": 0.15,
+    "Identify": 0.20,
+    "Protect": 0.25,
+    "Detect": 0.20,
+    "Respond": 0.15,
+    "Recover": 0.05
+}
+
 # ---------------------------
 # Load data
 # ---------------------------
