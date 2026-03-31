@@ -65,8 +65,13 @@ with st.sidebar:
     f_reg = st.multiselect("Region", ["(All)"] + regs, default=["(All)"])
     f_sev = st.multiselect("Severity", ["(All)"] + sevs, default=["(All)"])
 
-    min_d, max_d = threats["date"].min(), threats["date"].max()
-    f_dates = st.slider("Date range", value=(min_d, max_d), min_value=min_d, max_value=max_d)
+    min_d = threats["date"].min().to_pydatetime().date() if pd.notna(threats["date"].min()) else None
+    max_d = threats["date"].max().to_pydatetime().date() if pd.notna(threats["date"].max()) else None
+    
+    if min_d and max_d:
+        f_dates = st.slider("Date range", value=(min_d, max_d), min_value=min_d, max_value=max_d)
+    else:
+        f_dates = (None, None)
 
 
 def apply_filters(df: pd.DataFrame) -> pd.DataFrame:
@@ -77,7 +82,8 @@ def apply_filters(df: pd.DataFrame) -> pd.DataFrame:
         df = df[df["region"].isin(f_reg)]
     if "(All)" not in f_sev:
         df = df[df["severity"].isin(f_sev)]
-    df = df[(df["date"] >= pd.to_datetime(f_dates[0])) & (df["date"] <= pd.to_datetime(f_dates[1]))]
+    if f_dates and f_dates[0] and f_dates[1]:
+        df = df[(df["date"].dt.date >= f_dates[0]) & (df["date"].dt.date <= f_dates[1])]
     return df
 
 
